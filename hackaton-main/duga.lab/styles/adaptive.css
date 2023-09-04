@@ -1,0 +1,6 @@
+@media (min-width: 1400px) {
+    body .wrapper .main .container .right__side .photo img{
+        width: 1200px;
+    }
+    
+}
